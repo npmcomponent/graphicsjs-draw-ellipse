@@ -15,7 +15,7 @@
 var drawEllipse = require('draw-ellipse');
 var canvas = document.querySelector('canvas');
 var ctx = canvas.getContext('2d');
-drawRect(ctx, {
+drawEllipse(ctx, {
   x: 10,
   y: 10,
   width: 100,
