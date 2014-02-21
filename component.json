@@ -1,0 +1,14 @@
+{
+  "name": "draw-ellipse",
+  "repo": "graphicsjs/draw-ellipse",
+  "description": "Draw ellipse on canvas",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
